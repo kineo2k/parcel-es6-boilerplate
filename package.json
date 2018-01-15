@@ -1,0 +1,8 @@
+{
+  "name": "parcel-es6-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kineo2k/parcel-es6-boilerplate.git",
+  "author": "kineo2k <kineo2k@gmail.com>",
+  "license": "MIT"
+}
